@@ -1,7 +1,2 @@
 
-[{
-      "id": 1,
-      "name": "Hero",
-      "age": "23",
-      "image": "https://reqres.in/img/faces/1-image.jpg"
-    }]
+[{"id": 1,"name": "Hero","image": "https://reqres.in/img/faces/1-image.jpg","age": "23"}]
